@@ -16,6 +16,7 @@ public class Calculadora {
     public Calculadora(int a, int b){
         num1=a;
         num2=b;
+        //nueva prueba
     }
     
     public int suma(){
