@@ -1,4 +1,4 @@
-/*
+﻿/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
@@ -19,6 +19,9 @@ public class Calculadora {
         //nueva prueba
         //nueva prueba 2
         //rama1
+        //prueba para comandos
+        
+        //pruebas
     }
     
     public int suma(){
